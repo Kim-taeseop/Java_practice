@@ -1,6 +1,6 @@
 package com.kts.java_practice.conditional;
 
-public class whilePractice {
+public class WhilePractice {
     public static void main(String[] args) {
         int i = 1;
         while (i<=3){

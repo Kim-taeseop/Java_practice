@@ -1,6 +1,6 @@
 package com.kts.java_practice.conditional;
 
-public class ifPractice {
+public class IfPractice {
     public static  void main(String[] args) {
 
         int score = 95; // 해당 값은 A

@@ -1,6 +1,6 @@
 package com.kts.java_practice.conditional;
 
-public class continuePractice {
+public class ContinuePractice {
     public static void main(String[] args) {
         for(int i = 0; i<=10; i++){
             if(i%2 !=0) {  // i의 나머지가 0이 아닐 경우

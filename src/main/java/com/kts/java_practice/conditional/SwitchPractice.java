@@ -1,6 +1,6 @@
 package com.kts.java_practice.conditional;
 
-public class switchPractice {
+public class SwitchPractice {
     public static void main(String[] args) {
 
         int score = (int) (Math.random() * 6) + 1;
