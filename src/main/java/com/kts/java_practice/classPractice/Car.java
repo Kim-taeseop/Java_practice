@@ -1,4 +1,4 @@
-package com.kts.java_practice.ClassPractice;
+package com.kts.java_practice.classPractice;
 
 public class Car {
     // 필드에서 객체 초기화

@@ -1,4 +1,4 @@
-package com.kts.java_practice.ClassPractice;
+package com.kts.java_practice.classPractice;
 
 // 클래스
 public class CarExample {

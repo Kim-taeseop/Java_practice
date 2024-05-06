@@ -1,4 +1,4 @@
-package com.kts.java_practice.ClassPractice;
+package com.kts.java_practice.classPractice;
 
 // 메서드 내부 호출 예시
 public class Calculator {

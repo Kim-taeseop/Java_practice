@@ -1,4 +1,4 @@
-package com.kts.java_practice.InfPractice.Overriding;
+package com.kts.java_practice.infPractice.Overriding;
 
 public class Computer extends Calculator{
 
