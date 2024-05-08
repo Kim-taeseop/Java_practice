@@ -1,6 +1,6 @@
 package com.kts.java_practice.apiPractice;
 
-public class MatExample {
+public class MathExample {
     public static void main(String[] args){
         // 절대값
         int v1 = Math.abs(-5);
