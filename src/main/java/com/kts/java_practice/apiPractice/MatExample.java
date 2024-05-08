@@ -1,4 +1,4 @@
-package com.kts.java_practice.mathPractice;
+package com.kts.java_practice.apiPractice;
 
 public class MatExample {
     public static void main(String[] args){
