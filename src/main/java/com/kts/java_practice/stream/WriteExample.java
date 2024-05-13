@@ -3,7 +3,7 @@ package com.kts.java_practice.stream;
 import java.io.FileOutputStream;
 import java.io.OutputStream;
 
-// OutputStream 연습
+// OutputStream 의 write() 사용
 public class WriteExample {
     public static void main(String[] args) throws Exception{
         OutputStream os = new FileOutputStream("/Users/kts/tabby/stream/test1.db");
